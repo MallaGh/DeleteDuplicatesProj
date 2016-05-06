@@ -1,17 +1,17 @@
 # DeleteDuplicatesProj
-Synopsis
+##Synopsis
 
-Deleting Duplicates from array.
+Deleting Duplicates from array, using Java8 and earlier version API's.
 
 
-#Installation:
+##Installation:
 1) Clone the repository bu using the below URL.
   git clone https://github.com/MallaGh/DeleteDuplicatesProj.git <br>
 2) Once project is checked out, invoke the util class methods in static way.  
-#API Reference:<br>
+##API Reference:<br>
 Used Java8 API to manipulate the Arrays and Lists.
 
-#Tests: To run the Junit testcases please include the following list of Jars.<br>
+##Tests: To run the Junit testcases please include the following list of Jars.<br>
 cglib-nodep-2.2.2.jar<br>
 javassist-3.20.0-GA.jar<br>
 junit-4.4.jar<br>
